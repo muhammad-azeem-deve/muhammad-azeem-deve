@@ -54,9 +54,6 @@ I focus on writing clean, scalable, and structured code while continuously impro
 ### 🏥 Online Voting System
 Python-based GUI system implementing OOP principles and structured architecture for patient and appointment management.
 
-### 🏠 Smart Home Automation System
-Design pattern-based modular system for home automation simulation.
-
 ### 📊 Loan Eligibility Predictor
 Machine learning classification system with data preprocessing and model optimization.
 
